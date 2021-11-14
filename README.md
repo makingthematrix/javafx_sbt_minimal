@@ -8,7 +8,7 @@ happens when we build a native image with the same JavaFX, but with Maven, and t
 
 - OS: Linux Mint 20.1
 - Arch: x86_64
-- JDK: GraalVM CE 21.1.0, openjdk version 11.0.13 (JavaFX does not work yet with Java 17)
+- JDK: GraalVM CE 21.3.0, openjdk version 11.0.13 (JavaFX does not work yet with Java 17)
 - Scala: 2.13.7
 - SBT: 1.5.5
 - JavaFX: 16 (JavaFX 17 does not work yet with SBT because of [this issue](https://github.com/sbt/sbt/issues/6564))
